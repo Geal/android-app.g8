@@ -1,4 +1,5 @@
 import sbt._
+import sbtandroid._
 
 import Keys._
 import AndroidKeys._
